@@ -11,11 +11,9 @@ An interactive number guessing game where the **computer guesses the number you'
 
 You think of a number, and the computer tries to guess it. After each guess, you tell it whether the number is higher or lower, and it keeps adjusting its guess accordingly until it gets it right.
 
-The game also displays a history of previous guesses (e.g., *First guess: 50*, *Second guess: 75*, etc.).
+The game also displays a history of previous guesses (e.g., _First guess: 50_, _Second guess: 75_, etc.).
 
 This behavior is also shown clearly in the screenshots below.
-
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
@@ -24,7 +22,6 @@ This behavior is also shown clearly in the screenshots below.
 <img src="./assets/images/dg3.jpg" width="300"/>
 <img src="./assets/images/dg4.jpg" width="300"/>
 <img src="./assets/images/dg5.jpg" width="300"/>
-
 
 ## 📚 Project Info
 
