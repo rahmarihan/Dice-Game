@@ -17,11 +17,13 @@ This behavior is also shown clearly in the screenshots below.
 
 ## 📸 Screenshots
 
-![Screenshot 1](./assets/images/dg1.jpg)
-![Screenshot 2](./assets/images/dg2.jpg)
-![Screenshot 3](./assets/images/dg3.jpg)
-![Screenshot 4](./assets/images/dg4.jpg)
-![Screenshot 5](./assets/images/dg5.jpg)
+## 📸 Screenshots
+
+<img src="./assets/images/dg1.jpg" width="300"/>
+<img src="./assets/images/dg2.jpg" width="300"/>
+<img src="./assets/images/dg3.jpg" width="300"/>
+<img src="./assets/images/dg4.jpg" width="300"/>
+<img src="./assets/images/dg5.jpg" width="300"/>
 
 
 ## 📚 Project Info
